@@ -1,9 +1,9 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+# Pac-Man Factory
+This program allows the users to create multiple Pac-Men that move across the screen at different rates. The Pac-Men bounce against walls and rebound to continue moving. 
+## How to Run:
+Download all of the files onto your computer. Drag the index.html file into your browser. Click "Add Pacman" for each Pacman you would like to add. Click "Start Game" to watch them move around your screen.
 
-<img src="PacMan1.png">
+## Future Improvements:
+Create Pac-man of varying colors; Add other Pac-man related elements, like ghosts and cherries; Make the Pac-Men change direction when they hit an edge
+
+<img src="PacMan1.png" width='300px'>
